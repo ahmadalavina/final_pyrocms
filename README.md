@@ -1,7 +1,6 @@
-# PyroCMS
+# Hello Every Body
 
-PyroCMS is an easy to use, powerful, and modular CMS and development platform built with Laravel 5.
+This is nothing to show you becuse this is a project for me and nothing to show for you and plese dont push on it
 
-## Security
+## Thanke You
 
-If you discover any security related issues, please email ryan@pyrocms.com instead of using the issue tracker.
